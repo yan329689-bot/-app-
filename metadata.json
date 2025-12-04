@@ -1,0 +1,7 @@
+{
+  "name": "LinguaFlow AI",
+  "description": "A comprehensive English learning assistant featuring smart dictionary lookup, pronunciation practice, vocabulary tracking, and real-time conversational AI practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
